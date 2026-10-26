@@ -37,7 +37,7 @@
     #mp-invitation .mp-hero .mp-intro{color:#50383b;font-size:21px;line-height:1.4;margin-bottom:22px}
     #mp-invitation .mp-parents{font-size:27px;color:#58343c}
     #mp-invitation .mp-bear{display:block;width:190px;max-width:75%;height:auto;aspect-ratio:1/1.1;object-fit:contain;margin:0 auto 12px;filter:drop-shadow(0 9px 8px #976f4b16)}
-    #mp-invitation .mp-bear-cover{width:115px;max-width:35%;margin:-10px auto -15px;position:relative;z-index:5;pointer-events:none}
+    #mp-invitation .mp-bear-cover{width:115px;max-width:35%;margin:-10px auto -15px;position:relative;z-index:5;pointer-events:none; transform: translateY(12px);}
     #mp-invitation .mp-flower{opacity:.7;transform:scale(.68)}
     #mp-invitation .mp-date .mp-side{font-size:13px;color:#54383b;letter-spacing:1px}
     #mp-invitation .mp-date .mp-six{color:#813d50;font-weight:500}
